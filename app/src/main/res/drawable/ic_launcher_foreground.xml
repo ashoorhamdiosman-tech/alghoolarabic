@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap / Education Icon centered in 66dp zone -->
+    <!-- Cap top diamond -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,32L24,46L54,60L84,46Z" />
+    <!-- Cap skull and rim -->
+    <path
+        android:fillColor="#E6F4EA"
+        android:pathData="M34,51V64C34,70 42,75 54,75C66,75 74,70 74,64V51L54,60Z" />
+    <!-- Tassel -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M80,48V66C80,68 78,70 76,70C74,70 72,68 72,66V48Z" />
+    <!-- Balance / Book scale pedestal -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M40,79H68V83H40Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M52,75H56V80H52Z" />
+</vector>

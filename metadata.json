@@ -1,0 +1,6 @@
+{
+  "name": "أنصبة مدارس العريش",
+  "description": "نظام هندسي متكامل لإدارة أنصبة المدرسين وحساب العجز والزيادة والمتابعة والتوجيه بمدارس العريش - تصميم وبرمجة: د/ أحمد حمدي عاشور الغول",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
